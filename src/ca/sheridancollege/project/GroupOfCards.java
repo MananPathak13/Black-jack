@@ -5,7 +5,7 @@
  * Modifier- Shubh Patel Date- 12th February 2020 
  *           Nidhi Nidhi Date- 13th February 2020
  *           Manan Pathak Date- 13th February 2020
- *           Faraz Naqvi Date- 13th February 2020
+ *           Faraz Naqvi Date- 12th February 2020
  */
 package ca.sheridancollege.project;
 
