@@ -3,8 +3,9 @@
  * Students can modify and extend to implement their game.
  * Add your name as a modifier and the date.
  * Modifier- Shubh Patel Date- 12th February 2020 
- *           Nidhi Nidhi Date- 13th Feburary 2020
- *           Manan Pathak Date- 13th Feburary 2020
+ *           Nidhi Nidhi Date- 13th February 2020
+ *           Manan Pathak Date- 13th February 2020
+ *           Faraz Naqvi Date- 13th February 2020
  */
 package ca.sheridancollege.project;
 
