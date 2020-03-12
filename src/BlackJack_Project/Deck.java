@@ -23,6 +23,26 @@ public class Deck {
 
     //The group of cards, stored in an ArrayList
     private ArrayList<Card> cards;
+
+	public void shuffle() {
+		// TODO - implement Deck.shuffle
+		throw new UnsupportedOperationException();
+	}
+
+	public int cardsValue() {
+		// TODO - implement Deck.cardsValue
+		throw new UnsupportedOperationException();
+	}
+
+	public String toString() {
+		// TODO - implement Deck.toString
+		throw new UnsupportedOperationException();
+	}
+
+	public void createDeck() {
+		// TODO - implement Deck.createDeck
+		throw new UnsupportedOperationException();
+	}
    
 
     

@@ -31,6 +31,16 @@ public class Card {
     
     }
 
+	public void getValue() {
+		// TODO - implement Card.getValue
+		throw new UnsupportedOperationException();
+	}
+
+	public int toString() {
+		// TODO - implement Card.toString
+		throw new UnsupportedOperationException();
+	}
+
 
 
 }
