@@ -7,7 +7,7 @@
  *           Manan Pathak Date- 13th February 2020
  *           Faraz Naqvi Date- 12th February 2020
  */
-package ca.sheridancollege.project;
+package BlackJack_Project;
 
 /**
  * A class to be used as the base Card class for the project. Must be general enough to be instantiated for any Card

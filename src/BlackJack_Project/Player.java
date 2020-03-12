@@ -7,7 +7,7 @@
  *           Manan Pathak Date- 13th February 2020
  *           Faraz Naqvi Date- 12th February 2020
  */
-package ca.sheridancollege.project;
+package BlackJack_Project;
 
 /**
  * A class that models each Player in the game. Players have an identifier, which should be unique.

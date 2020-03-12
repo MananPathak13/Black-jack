@@ -7,7 +7,7 @@
  *           Manan Pathak Date- 13th February 2020
  *           Faraz Naqvi Date- 12th February 2020
  */
-package ca.sheridancollege.project;
+package BlackJack_Project;
 
 import java.util.ArrayList;
 import java.util.Collections;
