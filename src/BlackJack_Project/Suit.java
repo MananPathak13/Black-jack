@@ -14,6 +14,15 @@ package BlackJack_Project;
  * date: 12/03/2020
  */
 public enum Suit {
-    DIAMOND,HEARTS,SPADE,CLUB;
+    DIAMOND("Diamond"),HEARTS("Hearts"),SPADE("Spade"),CLUB("Club");
     
+    private String suit;
+
+    private Suit(String suit) {
+        this.suit = suit;
+    }
+    
+    public String getSuit(){
+        return suit;
+    }
 }

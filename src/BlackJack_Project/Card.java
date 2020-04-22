@@ -9,38 +9,29 @@
  */
 package BlackJack_Project;
 
-/**
- * A class to be used as the base Card class for the project.
- *
- * @author dancye
- * @modifier Shubh Patel - 12/03/2020
- */
+
 public class Card {
 
-    /**
-     * Using enum classes to build a card object
-     */
+    
+    //Using enum classes to build a card object (suit and value given)
 
      private Suit suit;
      private Value value;
 
-     public Card(Suit suit, Value value){
-    
+     public Card(Suit suit, Value value){ 
         this.value = value;
         this.suit = suit;
-    
     }
+     
+     public int getValue(){
+         return value.getValue();
+     }
+     
+     public String getName(){
+         return value.getName();
+     }
 
-	public void getValue() {
-		// TODO - implement Card.getValue
-		throw new UnsupportedOperationException();
+	public String toString(){
+		return value.getName()+" of "+suit.getSuit();
 	}
-
-	public int toString() {
-		// TODO - implement Card.toString
-		throw new UnsupportedOperationException();
-	}
-
-
-
 }
