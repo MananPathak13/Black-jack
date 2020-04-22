@@ -13,7 +13,7 @@ package BlackJack_Project;
 public class Card {
 
     
-    //Using enum classes to build a card object (suit and value given)
+    //Using enum classes to build a card object (suit/value given)
 
      private Suit suit;
      private Value value;
